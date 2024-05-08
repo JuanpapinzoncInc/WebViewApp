@@ -1,4 +1,4 @@
-**Descripción:** App básica nativa en kotlin para Android que permite desplegar implementaciones web como C2C y WebChat con sus respectivas funcionalidades de establecer llamada por voz, adjuntar y compartir archivos,
+**Descripción:** App básica nativa en kotlin para Android que permite desplegar implementaciones web como C2C, Videollamada Nativa y WebChat con sus respectivas funcionalidades de establecer llamada por voz, video, adjuntar y compartir ubicación,
 el html al que apunta puede ser una url o un contenido cargado directamente sobre la actividad, hay comunicación entre la actividad y el contenido desplegado en el WebView para manejar acciones en ambos sentidos.
 Cuenta con dos actividades, Main y WebView y e cuenta con los siguientes comportamientos:
 
